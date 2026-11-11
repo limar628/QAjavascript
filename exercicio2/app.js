@@ -69,3 +69,4 @@ let usuariosInvalidos3 = [];
   }
   console.log(usuariosInvalidos3)
   // Estou aprendendo a revisar alteracoes com Git.
+  // Estou aprendendo Git passo a passo.
